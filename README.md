@@ -14,13 +14,14 @@ I used Microsoft Excel to:
 - Enter and organize the customer records.
 - Check for missing information.
 - Check for duplicate Record IDs, phone numbers, and emails.
-- Check the phone numbers for the correct format.
-- Check the email addresses for basic formatting.
-- Check whether the customer ages were within the acceptable range.
-- Use a reference table to classify locations.
-- Check the registration dates.
-- Check for dates that were in the future.
-- Create a separate cleaned dataset after the validation process.
+- Validate phone numbers formats.
+- Check email addresses for basic formatting.
+- Validate customer age ranges.
+- Verify location using a reference table.
+- Validate registration dates.
+- Identify future registration dates.
+- Create a separate cleaned dataset.
+- Summarize the results of the data quality checks.
 
 ## Results
 
