@@ -1,4 +1,4 @@
-# Customer Data Entry and Quality Validation Project
+# Customer Data Entry And Quality Validation Project
 
 ## About the Project
 
