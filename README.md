@@ -1,5 +1,3 @@
-# Customer Data Entry & Quality Validation Project
-
 # Customer Data Entry and Quality Validation Project
 
 ## About the Project
