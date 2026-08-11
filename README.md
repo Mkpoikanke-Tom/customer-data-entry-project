@@ -1,12 +1,11 @@
 # Customer Data Entry & Quality Validation Project
 
 ## About the Project
+This project demonstrates a customer data entry and data quality validation workflow completed using Microsoft Excel.
 
-This is a small Excel project I created to practice customer data entry, data validation, and data cleaning.
+I worked with a sample dataset containing 10 customer records. I entered and organized the records, then performed checks for missing data, duplicate records, phone and email formatting, age ranges, locations, and registration dates.
 
-I worked with a sample dataset containing 10 customer records. I entered the information into Excel and then checked the records for missing data, duplicates, incorrect formats, invalid ages, locations, and dates.
-
-After completing the checks, I created a separate cleaned version of the dataset.
+After completing the validation checks, I produced a separate cleaned version of the dataset while keeping the original data unchanged.
 
 ## What I Did
 
