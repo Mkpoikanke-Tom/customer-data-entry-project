@@ -54,10 +54,10 @@ During the project, I practiced using:
 
 The project contains the following files:
 
-- customer_data_raw.xlsx - original customer data
-- customer_data_entry.xlsx - Excel workbook used for data entry and validation
+- raw-data/customer_data_raw.xlsx - original customer data
+- excel/customer_data_entry.xlsx - Excel workbook used for data entry and validation
 - cleaned_customer_data.xlsx - final cleaned dataset
-- data_quality_report.md - detailed explanation of the data-quality checks
+- documentation/data_quality_report.md - detailed explanation of the data-quality checks
 
 ## Final Outcome
 
