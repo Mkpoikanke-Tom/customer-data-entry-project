@@ -11,17 +11,17 @@ After completing the validation checks, I produced a separate cleaned version of
 
 I used Microsoft Excel to:
 
-- Enter and organize the customer records.
-- Check for missing information.
-- Check for duplicate Record IDs, phone numbers, and emails.
-- Validate phone numbers formats.
-- Check email addresses for basic formatting.
-- Validate customer age ranges.
-- Verify location using a reference table.
-- Validate registration dates.
-- Identify future registration dates.
-- Create a separate cleaned dataset.
-- Summarize the results of the data quality checks.
+- Entered and organize the customer records.
+- Checked for missing information.
+- Checked for duplicate Record IDs, phone numbers, and emails.
+- Validated phone numbers formats.
+- Checked email addresses for basic formatting.
+- Validated customer age ranges.
+- Verified location using a reference table.
+- Validated registration dates.
+- Identified future registration dates.
+- Created a separate cleaned dataset.
+- Summarized the results of the data quality checks.
 
 ## Results
 
